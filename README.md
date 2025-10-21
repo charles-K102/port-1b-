@@ -2,13 +2,13 @@
 
 ## Term one projects
 
-### Space Game
+### mothman in space
 
 ![SpaceGame](https://github.com/charles-K102/port-1b-/blob/main/images/spacegame.png?raw=true)
 
-descriptiom
+description - 
 
-*[Windows EXE]()
+*[Windows EXE](https://github.com/charles-K102/port-1b-/blob/main/src/Spacegame/windows-amd64.zip)
 *[Mac App](https://github.com/charles-K102/port-1b-/blob/main/src/Spacegame/macos-aarch64.zip)
-*[Linux executeable]()
+*[Linux executeable]() | not finished
 *[Source Code](https://github.com/charles-K102/port-1b-/tree/main/src/Spacegame/Spacegame)
